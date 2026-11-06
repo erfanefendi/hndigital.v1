@@ -1,0 +1,6 @@
+{
+  "name": "Portal Digital Pesantren Hidayatun Najah",
+  "description": "Sistem Informasi & Manajemen Digital Terpadu Pondok Pesantren Hidayatun Najah: Absensi Real-Time, Pembayaran SPP & E-Saku, Raport Tahfidz & Diniyah, Pesan Langsung Wali Santri, dan Keamanan Data Terenkripsi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
